@@ -3,6 +3,7 @@ layout: post
 title: "What Big Listening Misses"
 date: 2015-03-12 18:49:30 -0700
 categories: organizing data
+comments: true
 ---
 
 People from netroots activists to science fiction heavy hitters are very concerned about how big data may be infiltrating our daily lives, compromising our privacy, and creating new kinds of risks for individuals, especially at the hands of government or corporate entities. These worries are very important: as more organizing happens online, and as more communities get online, we need to make sure that security for them continues to be a core part of the web.

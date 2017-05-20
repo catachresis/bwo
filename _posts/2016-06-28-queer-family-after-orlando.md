@@ -3,6 +3,7 @@ layout: post
 title: "For My Queer Family, After Orlando"
 date: 2016-06-28 22:41:22 -0700
 categories: abolition elsewhere
+comments: true
 ---
 I struggle to have patience with the latest round of gun control debates. In the wake of the Orlando shooting, I find myself grasping for something that the promise to legislate away assault rifles simply cannot provide. [Asam Ahmad lit the way for me](http://asamaccchhhmad.tumblr.com/post/146028651716/taking-our-pulse) when he wrote on Facebook that queer community, especially QTPOC community, is, in fact, a scarce and fragile thing. I’m beginning to piece it together, between the thoughts and writing of many friends, and it’s helping me crystallize my anger. A kind of anger that burns ice cold inside my bones, that feels treacherous to navigate alone. And so I’m writing this thing.
 

@@ -3,6 +3,7 @@ layout: post
 title: "Facebook vs. Ello & the Politics of Scarcity"
 date: 2014-09-25 22:41:22 -0700
 categories: socialmedia
+comments: true
 ---
 So everyone wants to get on Ello. It's this new social networking site that is made to look real slick: grey on grey, monospace font, circular user profile images and big cover images for your profile page. So far, it's clunky, awkward--a beta release, if you can call it that, but one that seems to have been pushed pretty hastily out the door. I'm all for people trying to make new things, especially in the time of Facebook supremacy. (Although I am happy to remind you that Facebook still isn't the be-all, end-all, and we need to talk about Twitter and the ascendancy of Tumblr at some point, too.)
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "In Search of Justice: Another Way to Remember Vincent Chin"
 date:   2014-07-25 18:31:41 -0700
-categories: organizing aapi elsewhere
+categories: organizing aapi elsewhere abolition
+comments: true
 ---
 <a href="http://18millionrising.org/blog/2014/jun/29/search-justice-another-way-remember-vincent-chin/">First published at 18MillionRising.org</a>.
 

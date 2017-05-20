@@ -3,6 +3,7 @@ layout: post
 title:  "APIAVote-Michigan Keynote"
 date:   2014-09-16 18:02:08 -0700
 categories: organizing talks
+comments: true
 ---
 This summer I had the privilege of being able to spend some time with a group of Civil Rights Era veterans—folks who were Freedom Riders, organizers with the Student Nonviolent Coordinating Committee, people who in a big way I feel like are movement elders. I was in North Carolina for Moral Monday and we had a great national convening of the collective called the <a href="http://freedomside.org">Freedom Side</a> that coincided with the march. It was amazing to feel like a part of that energy and experience this amazing historical through-line from the Civil Rights Era to the present, seeing the parallels in the moment we are in.
 
