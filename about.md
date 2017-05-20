@@ -18,4 +18,8 @@ Previous day jobs include: teaching media theory and game design to undergraduat
 
 Work that I've done that I don't get paid for includes organizing with the [Save E. 12th Coalition](http://proposal.e12thoakland.org), which brought neighbors together to design and propose a plan for a parcel of public land in my current neighborhood in Oakland, California; cofounding [Youngist](http://youngist.org), a youth media collective that we closed in 2016 that published fearless reporting and commentary from youth movements around the world; working with the movement tech community on issues of equity and gender-based violence in our work and organizing spaces; helping organize the [Allied Media Conference](https://alliedmedia.org/amc); and writing about all the ideas you will find on this website.
 
-I am working on a book manuscript about the relationship between affect, capital, and organizing on social media. I also give thoughtful [advice](/ans) about work, love, and being a decent human in a screwed up world.
+I am working on a book manuscript about the relationship between affect, capital, and organizing on social media. I also give thoughtful [advice](/ans/) about work, love, and being a decent human in a screwed up world.
+
+Learn more about my work on my [C.V.](/cv/)
+
+Interested in bringing me to your campus or community to speak about my work and ideas? Find out more [here](/speaking/).
