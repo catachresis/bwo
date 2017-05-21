@@ -30,7 +30,7 @@ Interested in bringing me to your campus or community to speak about my work and
 
 ### About This Site
 
-This site is built using [Jekyll](http://jekyllrb.com), a static site generator written in Ruby. It's hosted on GitHub Pages. 
+This site is built using [Jekyll](http://jekyllrb.com), a static site generator written in Ruby. It's hosted on GitHub Pages. If something is busted, [let me know here](https://github.com/catachresis/bwo/issues).
 
 The theme is [Moon](https://github.com/TaylanTatli/Moon) by Taylan Tatli. The background image is graffiti from the May '68 uprising in Paris. The graffiti reads "_sous les paves, la plage!_" or "beneath the paving stones, the beach!" The words are both literal (the paving stones of Paris were laid upon sand, which the rebels discovered when they pulled them up to use during the uprising), but can also be read as a rallying cry to dismantle the subjugating logic of capitalism to discover joy, play, and freedom beneath.
 

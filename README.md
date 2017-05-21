@@ -1,3 +1,3 @@
-New personal site.
+New personal site for fun and profit.
 
-Site uses Moon theme.
+The theme is [Moon](https://github.com/TaylanTatli/Moon) by Taylan Tatli.
