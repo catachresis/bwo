@@ -40,6 +40,12 @@ In the spirit of the internet, you are invited to share these ideas far and wide
 
 My original work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike License. [Learn more about what that means here.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+### Data Use
+
+Any information you share with me or transmit via this website will be held in confidence, with the exception of the text of questions asked. I will never ever sell your information to a third party, nor share it without your explicit written consent. Information collected will primarily be used to get in touch with you.
+
+Regarding tracking, I collect a small amount of information about visitors via Google Analytics for my own self-aggrandizing reasons.
+
 ### Comments Policy
 
 Don't be a jerk.
