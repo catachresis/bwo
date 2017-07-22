@@ -19,4 +19,4 @@ I can talk about current [work](/cv/), technology and organizing, and give works
 
 I am happy to negotiate on honoraria, especially with student groups and grassroots organizers.
 
-Get the process started by introducing yourself: who you are, where your event is, and why you're interested in hosting me.
+Get the process started by [introducing yourself]("mailto:cayden.mak@gmail.com&subject=Booking a speaking engagement"): who you are, where your event is, and why you're interested in hosting me.
