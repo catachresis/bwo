@@ -7,7 +7,7 @@ permalink: /speaking/
 ## Upcoming Events
 
 - 2017/08/05: "Protecting Civil Rights in the Technological Revolution" - Plenary Panel, OCA National Convention, Sacramento, CA.
-- 2017/08/10: "[AAPIs Sharing Effective Strategies for Resisting & Mobilizing](http://www.netrootsnation.org/nn_events/nn-17/drink-chai-stay-woke-aapis-share-effective-strategies-for-resisting-and-mobilizing/_" - Panel, Netroots Nation, Atlanta, GA.
+- 2017/08/10: "[AAPIs Sharing Effective Strategies for Resisting & Mobilizing](http://www.netrootsnation.org/nn_events/nn-17/drink-chai-stay-woke-aapis-share-effective-strategies-for-resisting-and-mobilizing/)" - Panel, Netroots Nation, Atlanta, GA.
 - 2017/08/12: "[Digital Sanctuary: Combatting Bias & Racism in Tech Tools & Policy](http://www.netrootsnation.org/nn_events/nn-17/digital-sanctuary-combatting-bias-and-racism-in-tech-tools-and-policies/)" - Panel, Netroots Nation, Atlanta, GA.
 - 2017/08/19: "Organizing in the Age of Trump" - Panel, APALA/IAPALA Biannual Convention, Anaheim, CA.
 
